@@ -7,11 +7,12 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: branch_tex
+  m_Name: branch_tex 1
   m_Shader: {fileID: 4800000, guid: 99134b1f0c27d54469a840832a28fadf, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords:
+  - EFFECT_HUE_VARIATION
   - _WINDQUALITY_BEST
   m_InvalidKeywords:
   - GEOM_TYPE_LEAF
@@ -85,7 +86,7 @@ Material:
     - _GlossMapScale: 1
     - _Glossiness: 0.5
     - _GlossyReflections: 1
-    - _HueVariationKwToggle: 0
+    - _HueVariationKwToggle: 1
     - _Metallic: 0
     - _Mode: 0
     - _NormalMapKwToggle: 0
