@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 762fb510a65976945b85996d5f44f566
+ShaderIncludeImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 304437
+  packageName: KHS - Donsipjagak, Gyeongbokgung
+  packageVersion: 1.0
+  assetPath: Assets/DongsipjagakComplex/Shaders/MI_DSJG_Giwa.hlsl
+  uploadId: 718580

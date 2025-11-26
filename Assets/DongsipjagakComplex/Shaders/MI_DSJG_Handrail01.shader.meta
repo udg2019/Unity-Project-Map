@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: abc00000000006735633527318003079
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 304437
+  packageName: KHS - Donsipjagak, Gyeongbokgung
+  packageVersion: 1.0
+  assetPath: Assets/DongsipjagakComplex/Shaders/MI_DSJG_Handrail01.shader
+  uploadId: 718580

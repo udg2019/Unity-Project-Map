@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 85bf2ca1f4ba7c54ab4a38dec393a638
+ShaderIncludeImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 304437
+  packageName: KHS - Donsipjagak, Gyeongbokgung
+  packageVersion: 1.0
+  assetPath: Assets/DongsipjagakComplex/Shaders/MI_DSJG_WoodB.hlsl
+  uploadId: 718580

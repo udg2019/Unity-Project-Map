@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0aea3b659565b0a4180f364b5b834d94
+ShaderIncludeImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 304437
+  packageName: KHS - Donsipjagak, Gyeongbokgung
+  packageVersion: 1.0
+  assetPath: Assets/DongsipjagakComplex/Shaders/MI_DSJG_RoofOrnament01.hlsl
+  uploadId: 718580

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6a1d78e35104fa6489634066d46a8e58
+ShaderIncludeImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 304437
+  packageName: KHS - Donsipjagak, Gyeongbokgung
+  packageVersion: 1.0
+  assetPath: Assets/DongsipjagakComplex/Shaders/LargeWorldCoordinates.hlsl
+  uploadId: 718580

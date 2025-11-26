@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 4b7deeafade09b44ca0c03897cc1f8c7
+ShaderIncludeImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 304437
+  packageName: KHS - Donsipjagak, Gyeongbokgung
+  packageVersion: 1.0
+  assetPath: Assets/DongsipjagakComplex/Shaders/UnrealCommon.cginc
+  uploadId: 718580

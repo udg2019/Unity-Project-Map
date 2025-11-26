@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 81f0c48a180e94d47b703725af42c71e
+ShaderIncludeImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 304437
+  packageName: KHS - Donsipjagak, Gyeongbokgung
+  packageVersion: 1.0
+  assetPath: Assets/DongsipjagakComplex/Shaders/LWCOperations.hlsl
+  uploadId: 718580

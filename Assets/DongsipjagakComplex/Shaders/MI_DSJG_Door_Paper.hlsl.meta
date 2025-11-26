@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0e95d0a602e6de542a0e03a63e457a4d
+ShaderIncludeImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 304437
+  packageName: KHS - Donsipjagak, Gyeongbokgung
+  packageVersion: 1.0
+  assetPath: Assets/DongsipjagakComplex/Shaders/MI_DSJG_Door_Paper.hlsl
+  uploadId: 718580

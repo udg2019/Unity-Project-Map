@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1cd9789409fe27148be6af825ab46647
+ShaderIncludeImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 304437
+  packageName: KHS - Donsipjagak, Gyeongbokgung
+  packageVersion: 1.0
+  assetPath: Assets/DongsipjagakComplex/Shaders/MI_DSJG_RafterA.hlsl
+  uploadId: 718580

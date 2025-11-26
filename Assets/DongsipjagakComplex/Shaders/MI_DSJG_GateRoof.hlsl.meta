@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 9179fcd67b666e249a07cf4727c7d3de
+ShaderIncludeImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 304437
+  packageName: KHS - Donsipjagak, Gyeongbokgung
+  packageVersion: 1.0
+  assetPath: Assets/DongsipjagakComplex/Shaders/MI_DSJG_GateRoof.hlsl
+  uploadId: 718580

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 9a1b0c8965f3ca641aa2e31390f212f3
+ShaderIncludeImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 304437
+  packageName: KHS - Donsipjagak, Gyeongbokgung
+  packageVersion: 1.0
+  assetPath: Assets/DongsipjagakComplex/Shaders/MI_DSJG_Door_Iron.hlsl
+  uploadId: 718580

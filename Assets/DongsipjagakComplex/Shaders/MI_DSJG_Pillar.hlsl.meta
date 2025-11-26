@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8898e3b0e53dff8499dfa7f47c45678f
+ShaderIncludeImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 304437
+  packageName: KHS - Donsipjagak, Gyeongbokgung
+  packageVersion: 1.0
+  assetPath: Assets/DongsipjagakComplex/Shaders/MI_DSJG_Pillar.hlsl
+  uploadId: 718580

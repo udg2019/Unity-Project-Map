@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1aaec195280baf540bedc37edd22e433
+ShaderIncludeImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 304437
+  packageName: KHS - Donsipjagak, Gyeongbokgung
+  packageVersion: 1.0
+  assetPath: Assets/DongsipjagakComplex/Shaders/DefaultMaterial.hlsl
+  uploadId: 718580

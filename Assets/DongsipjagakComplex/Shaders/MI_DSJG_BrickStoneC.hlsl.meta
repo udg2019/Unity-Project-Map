@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a8b2ce7132ba40749a760d7f3c10b535
+ShaderIncludeImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 304437
+  packageName: KHS - Donsipjagak, Gyeongbokgung
+  packageVersion: 1.0
+  assetPath: Assets/DongsipjagakComplex/Shaders/MI_DSJG_BrickStoneC.hlsl
+  uploadId: 718580

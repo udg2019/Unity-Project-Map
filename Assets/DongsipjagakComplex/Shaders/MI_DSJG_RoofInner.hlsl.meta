@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 61f5fcc94e0d6164c995f237bccf7ca4
+ShaderIncludeImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 304437
+  packageName: KHS - Donsipjagak, Gyeongbokgung
+  packageVersion: 1.0
+  assetPath: Assets/DongsipjagakComplex/Shaders/MI_DSJG_RoofInner.hlsl
+  uploadId: 718580

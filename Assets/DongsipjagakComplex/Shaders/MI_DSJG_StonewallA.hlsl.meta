@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1aad5fb143cb1d74a9ed1951f653f2ab
+ShaderIncludeImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 304437
+  packageName: KHS - Donsipjagak, Gyeongbokgung
+  packageVersion: 1.0
+  assetPath: Assets/DongsipjagakComplex/Shaders/MI_DSJG_StonewallA.hlsl
+  uploadId: 718580

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 04d9dd6cad632e54c998173b93b04132
+ShaderIncludeImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 304437
+  packageName: KHS - Donsipjagak, Gyeongbokgung
+  packageVersion: 1.0
+  assetPath: Assets/DongsipjagakComplex/Shaders/MI_DSJG_WallC.hlsl
+  uploadId: 718580

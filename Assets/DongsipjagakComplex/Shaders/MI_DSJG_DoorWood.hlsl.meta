@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 850600b927c31d44a88ee278a4744c05
+ShaderIncludeImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 304437
+  packageName: KHS - Donsipjagak, Gyeongbokgung
+  packageVersion: 1.0
+  assetPath: Assets/DongsipjagakComplex/Shaders/MI_DSJG_DoorWood.hlsl
+  uploadId: 718580

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6a9c1e428b8c5074ca6ae701358d217e
+ShaderIncludeImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 304437
+  packageName: KHS - Donsipjagak, Gyeongbokgung
+  packageVersion: 1.0
+  assetPath: Assets/DongsipjagakComplex/Shaders/MI_DSJG_Window.hlsl
+  uploadId: 718580

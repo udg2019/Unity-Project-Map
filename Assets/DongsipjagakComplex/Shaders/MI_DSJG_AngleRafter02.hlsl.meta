@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 26e21266ad4cadc449a1ea18161ce2dd
+ShaderIncludeImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 304437
+  packageName: KHS - Donsipjagak, Gyeongbokgung
+  packageVersion: 1.0
+  assetPath: Assets/DongsipjagakComplex/Shaders/MI_DSJG_AngleRafter02.hlsl
+  uploadId: 718580
